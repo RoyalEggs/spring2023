@@ -1,5 +1,5 @@
 {
-  "name": "week03",
+  "name": "week06",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  },
-  
+    "redis": "^4.6.5"
+  }
+  "type": "module"
+}
