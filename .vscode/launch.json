@@ -21,6 +21,16 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\week04\\index.js"
+        } ,
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Week 7",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\week07\\index.js",
+            "console": "integratedTerminal"
         } 
     ]
 }
